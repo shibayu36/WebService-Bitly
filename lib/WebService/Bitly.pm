@@ -639,7 +639,7 @@ http://code.google.com/p/bitly-api/wiki/ApiDocumentation
 
 =head1 REPOSITORY
 
-http://github.com/shiba-yu36/WebService-Bitly
+http://github.com/shibayu36/WebService-Bitly
 
 =head1 AUTHOR
 
