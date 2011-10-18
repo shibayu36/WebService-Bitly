@@ -28,5 +28,4 @@ test_requires 'Test::MockObject::Extends';
 test_requires 'JSON';
 test_requires 'LWP::UserAgent';
 
-auto_install;
 WriteAll;
